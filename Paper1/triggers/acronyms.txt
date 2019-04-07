@@ -1,0 +1,142 @@
+afk		[ACRO]		away from keyboard
+bbiab		[ACRO]		be back in a bit
+bbl		[ACRO]		be back later
+bbs		[ACRO]		be back soon
+beg		[ACRO]		big evil grin
+brb		[ACRO]		be right back
+btw		[ACRO]		by the way
+eg		[ACRO]		evil grin
+idk		[ACRO]		i do not know
+imo		[ACRO]		in my opinion
+irl		[ACRO]		in real life
+lol		[ACRO]		laughing out loud
+nyob		[ACRO]		none of your business
+omg		[ACRO]		oh my god
+pos		[ACRO]		parents over shoulder
+ttyl		[ACRO]		talk to you late
+asap		[ACRO]		as soon as possible
+awol		[ACRO]		absent without leave
+cia		[ACRO]		central intelligence agency
+cps		[ACRO]		child protective services
+csi		[ACRO]		crime scene investigation
+dafb		[ACRO]		dover air force base
+dmv		[ACRO]		division of motor vehicles
+dnc		[ACRO]		democratic national committee
+fbi		[ACRO]		federal bureau of investigation
+mia		[ACRO]		missing in action
+osha		[ACRO]		occupational safety and health administration
+nafta		[ACRO]		north american free trade agreement
+nasa		[ACRO]		national aeronautics and space administration
+navy seals		[ACRO]		navy sea air land forces
+potus		[ACRO]		president of the united states
+pow		[ACRO]		prisoner of war
+rnc		[ACRO]		republican national committee
+scotus		[ACRO]		supreme court of the united states
+swat		[ACRO]		special weapons and tactics
+abs		[ACRO]		anti-lock braking system
+add		[ACRO]		attention deficit disorder
+adhd		[ACRO]		attention deficit hyperactivity disorder
+aids		[ACRO]		acquired immune deficiency syndrome
+ama		[ACRO]		against medical advice
+cdc		[ACRO]		centers for disease control and prevention
+dare		[ACRO]		drug abuse resistance education
+doa		[ACRO]		dead on arrival
+dob		[ACRO]		date of birth
+diy		[ACRO]		do it yourself
+faq		[ACRO]		frequently asked questions
+hiv		[ACRO]		human immunodeficiency virus
+md		[ACRO]		medical doctor
+otc		[ACRO]		over the counter
+ppv		[ACRO]		pay per view
+suv		[ACRO]		sports utility vehicle
+ufo		[ACRO]		unidentified flying objects
+aka		[ACRO]		also known as
+cst		[ACRO]		central standard time
+dba		[ACRO]		doing business as
+dnd		[ACRO]		do not disturb
+eds		[ACRO]		electronic data systems
+eod		[ACRO]		end of day
+est		[ACRO]		eastern standard time
+eta		[ACRO]		estimated time of arrival
+hr		[ACRO]		human resources
+ot		[ACRO]		overtime
+pos		[ACRO]		point of service
+pst		[ACRO]		pacific standard time
+aa		[ACRO]		alcoholics anonymous
+aaas		[ACRO]		american association for the advancement of science
+aarp		[ACRO]		american association of retired persons
+ada		[ACRO]		american dental association
+afl		[ACRO]		american football league
+ama		[ACRO]		american medical association
+apa		[ACRO]		american psychological association
+espn		[ACRO]		entertainment and sports programming network
+ami		[ACRO]		acute myocardial infarction
+b-all		[ACRO]		b-cell acute lymphoblastic leukemia
+fsh		[ACRO]		follicle stimulating hormone
+hape		[ACRO]		high altitude pulmonary edema
+hps		[ACRO]		 hantavirus pulmonary syndrome
+ibs		[ACRO]		irritable bowel syndrome
+iddm		[ACRO]		insulin-dependent diabetes mellitus
+mds		[ACRO]		myelo dysplastic syndrome
+nbccs		[ACRO]		nevoid basal cell carcinoma syndrome
+pe		[ACRO]		 pulmonary embolism
+sids		[ACRO]		sudden infant death syndrome
+tsh		[ACRO]		thyroid stimulating hormone
+acl		[ACRO]		anterior cruciate ligament
+ad lib		[ACRO]		at liberty
+afr		[ACRO]		acute renal failure
+adhd		[ACRO]		attention deficit hyperactivity disorder
+adr		[ACRO]		adverse drug reaction
+aka		[ACRO]		above the knee amputation
+anuric		[ACRO]		not producing urine
+aned		[ACRO]		alive no evidence of disease
+adh		[ACRO]		antidiuretic hormone
+ards		[ACRO]		acute respiratory distress syndrome
+arf		[ACRO]		acute renal failure
+ascvd		[ACRO]		 atherosclerotic cardiovascular disease
+bld		[ACRO]		blood
+bka		[ACRO]		below the knee amputation
+bmp		[ACRO]		basic metabolic panel
+bp		[ACRO]		blood pressure
+bpd		[ACRO]		borderline personality disorder
+bso		[ACRO]		bilateral salpingo-oophorectomy
+ca		[ACRO]		cancer
+cabg		[ACRO]		coronary artery bypass graft
+cbc		[ACRO]		complete blood count
+cc		[ACRO]		chief complaint
+cde		[ACRO]		complete dental evaluation
+chem pane		[ACRO]		chemistry panel
+cpap		[ACRO]		continuous positive airway pressure
+copd		[ACRO]		chronic obstructive pulmonary disease
+ct		[ACRO]		chemotherapy
+cva		[ACRO]		cerebrovascular accident
+dcis		[ACRO]		ductal carcinoma in situ
+ddx		[ACRO]		differential diagnosis
+mds		[ACRO]		myelo dysplastic syndrome
+djd		[ACRO]		 degenerative joint disease
+pe		[ACRO]		 pulmonary embolism
+sids		[ACRO]		sudden infant death syndrome
+tsh		[ACRO]		thyroid stimulating hormone
+acl		[ACRO]		anterior cruciate ligament
+ad lib		[ACRO]		at liberty
+afr		[ACRO]		acute renal failure
+adhd		[ACRO]		attention deficit hyperactivity disorder
+adr		[ACRO]		adverse drug reaction
+aka		[ACRO]		above the knee amputation
+anuric		[ACRO]		not producing urine
+aned		[ACRO]		alive no evidence of disease
+adh		[ACRO]		antidiuretic hormone
+ards		[ACRO]		acute respiratory distress syndrome
+arf		[ACRO]		acute renal failure
+ascvd		[ACRO]		 atherosclerotic cardiovascular disease
+bld		[ACRO]		blood
+bka		[ACRO]		below the knee amputation
+bmp		[ACRO]		basic metabolic panel
+bp		[ACRO]		blood pressure
+bpd		[ACRO]		borderline personality disorder
+bso		[ACRO]		bilateral salpingo-oophorectomy
+ca		[ACRO]		cancer
+cabg		[ACRO]		coronary artery bypass graft
+cbc		[ACRO]		complete blood count
+cc		[ACRO]		chief complaint
+cde		[ACRO]		complete dental evaluation

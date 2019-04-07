@@ -1,0 +1,5 @@
+[2019-01-18 03:49:00,012] INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+[2019-01-18 03:49:00,015] INFO Socket error occurred: localhost/127.0.0.1:2181: Connection refused (org.apache.zookeeper.ClientCnxn)
+[2019-01-18 03:49:01,296] INFO Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error) (org.apache.zookeeper.ClientCnxn)
+[2019-01-18 03:49:01,297] INFO Socket error occurred: localhost/127.0.0.1:2181: Connection refused (org.apache.zookeeper.ClientCnxn)
+[2019-01-18 03:49:02,004] WARN [Controller id=0, targetBrokerId=0] Connection to node 0 (/172.30.219.13:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient)

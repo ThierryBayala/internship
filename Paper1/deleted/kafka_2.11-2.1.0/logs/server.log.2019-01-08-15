@@ -1,0 +1,1 @@
+[2019-01-08 16:10:23,860] INFO Got user-level KeeperException when processing sessionid:0x100000215ce0000 type:setData cxid:0x78 zxid:0x36 txntype:-1 reqpath:n/a Error Path:/config/topics/corpus_tweet Error:KeeperErrorCode = NoNode for /config/topics/corpus_tweet (org.apache.zookeeper.server.PrepRequestProcessor)
